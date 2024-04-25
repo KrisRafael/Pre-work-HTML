@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en_US">
+    <head>
+        <meta charset="utf-8">
+        <title>Text formatting</title>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    </head>
+    <body>
+      <p>Tohle je první paragraf</p>
+      <p>Tohle je druhý paragraf</p>
+      <p>Tohle je třetí paragraf</p>
+
+    </body>
+</html>

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en_US">
+    <head>
+        <meta charset="utf-8">
+        <title>Hyperlinks</title>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body>
+
+        <nav class="main-nav">
+            <ul class="main-nav-list">
+                <!-- here place the LI element with a link to the page author.html -->
+					  </ul>
+        </nav>
+            <h1>The journey</h1>
+
+            <ul class="chapters">
+                <li>Click here</li><a href="#chapter3">Go to the third title</a>
+        
+                </ul>
+
+            <h2 id="chapter1">Sample title</h2>
+            <ol><li><p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</li></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</li></p>
+            <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</li></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</li></p>
+            <p><a href="https://www.smashingmagazine.com/2018/10/photoshop-workflows-shortcuts-digital-artists/#1-introduction-to-shortcuts-the-path-to-boosting-your-productivity.">Go to the indicated part of the article</a>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</li></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</ol><li/></p>
+
+            <h2 id="chapter2">Sample title</h2>
+            <li><ol><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</li></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</li></p>
+            <li><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto Tady je to zajímavé čtení.deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</li></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</ol><li/> </p>
+
+            <h2 id="chapter3">Sample title</h2>
+            <li><ol><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</ol><li/></p>
+        </div>
+    </body>
+</html>

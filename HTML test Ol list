@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en_US">
+    <head>
+        <meta charset="utf-8">
+        <title>Text formatting</title>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    </head>
+    <body>
+      <ol>
+        <li> Tohle je první text </li>
+        <li>Tohle je druhý text</li>
+        <li>Tohle je třetí text</li>
+      </ol>
+
+    </body>
+</html>
