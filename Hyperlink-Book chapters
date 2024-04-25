@@ -17,8 +17,11 @@
             <h1>The journey</h1>
 
             <ul class="chapters">
-                <li>Click here</li><a href="#chapter3">Go to the third title</a>
-        
+                <li><a href="Click here"</li>
+                <section ID="buttons">
+                <a href="<h2 id="chapter3">Zajímavý text níže</h2>"</a>
+                <a href="#foundID"</a>
+
                 </ul>
 
             <h2 id="chapter1">Sample title</h2>
@@ -38,7 +41,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</ol><li/> </p>
 
-            <h2 id="chapter3">Sample title</h2>
+            <h2 id="chapter3">Zajímavý text níže</h2>
             <li><ol><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deleniti eius enim eos est facere id iste labore, nostrum nulla quisquam, ratione sapiente sint soluta sunt suscipit tempora tempore voluptas.</p>
